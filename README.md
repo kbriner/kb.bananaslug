@@ -3,7 +3,7 @@
 
 The Banana Dlug webpage while simple, was the first page created in the course. This page will serve as a starting point for me to be able ot observe future growth on projects.
 
-#Process of the slug
+# Process of the slug
 
 This was a very simple and rough page. My hope is that in the future as I upload more and more to gitHub that this will serve as a start line. It isn't anything fancy, in fact it's pretty ugly! But everyone needs a start.
 
